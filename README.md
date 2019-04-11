@@ -12,6 +12,8 @@ Use it as a library. Enjoy.
 
 * There will be considerable overlap of topics. Feel free to offer suggestions; my goal is to create smaller topic sections where doable. (See /pricing for an example.)
 
+* Some topics (retailing, for example) are not fully populated. Feel free to make suggestions.
+
 * Many of the links are 5+ years old - it will not surprise me if a few are dead or have moved. Next steps include cleanup whereever I can.
 
 ## TODO:
