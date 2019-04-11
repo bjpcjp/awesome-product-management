@@ -4,11 +4,9 @@
 
 I first become a Product Manager in the late 1990s in the semiconductor industry. This predated any concept (AFAIK) of Product Management being a "thing", much less a recognized discipline.
 
-I therefore had to learn on my own. It's a sad thing to say, but the truth is that I've never - not once - have enjoyed the organizational embrace of a product-led company. 
+I therefore had to learn on my own. This cheat sheet is the result of many years of picking up bits of knowledge & storing them away. (If Google Keep were shareable, I would have published the raw material long before now. But I digress.) It's a simple collection of links to the topics that concern me most as a PM. >99% of the material is gleaned from other industry experts and product-centric company blogs; I've contribued a couple of Medium posts. Not many.
 
-So this cheat sheet is the result of many years of picking up bits of knowledge & storing them away. (If Google Keep were shareable, I would have published the raw material long before now. But I digress.) It's a simple collection of links to the topics that concern me most as a PM. >99% of the material is gleaned from other industry experts and product-centric company blogs; I've contribued a couple of Medium posts. Not many.
-
-Use it as a library. That's how I do it.
+Use it as a library. Enjoy.
 
 ## Caveats
 
