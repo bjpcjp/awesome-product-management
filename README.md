@@ -8,9 +8,11 @@ I therefore had to learn on my own. This cheat sheet is the result of many years
 
 Use it as a library. Enjoy.
 
-## Caveats
+## Caveats 'n Stuff
 
 * There will be considerable overlap of topics. Feel free to offer suggestions; my goal is to create smaller topic sections where doable. (See /pricing for an example.)
+
+* Behavioral topics (motivation, desire, fear, etc.) are a subject of special fascination for me. I've created a standalone "Awesome Product Management Behaviors" document [here](https://github.com/bjpcjp/awesome-behaviors). The main PM Encyclopedia above contains the same link.
 
 * Some topics (retailing, for example) are not fully populated. Feel free to make suggestions.
 
