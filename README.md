@@ -9,7 +9,7 @@ I therefore had to learn on my own. This cheat sheet is the result of many years
 ## Current Contents
 
 * [awesome-product-management](https://github.com/bjpcjp/awesome-product-management/blob/master/awesome-product-management-20190513.pdf)
-* [awesome-product-management-behaviors](https://github.com/bjpcjp/awesome-product-management/blob/master/awesome-prodmgmt-behaviors-20190502.pdf)
+* [awesome-product-management-behaviors](https://github.com/bjpcjp/awesome-product-management/blob/master/awesome-prodmgmt-behaviors-20190513.pdf)
 * [awesome-ui-ux-design](https://github.com/bjpcjp/awesome-product-management/blob/master/awesome-ui-ux-20190502.pdf)
 * [other related awesomes](https://github.com/bjpcjp/awesome-product-management/blob/master/selected-github-awesomes.md)
 
